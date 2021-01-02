@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ReverseAFile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ReverseAFile.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
